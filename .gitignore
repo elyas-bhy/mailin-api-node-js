@@ -1,3 +1,7 @@
+# NPM
+node_modules/
+npm-debug.log
+
 *.py[cod]
 
 # C extensions

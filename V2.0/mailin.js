@@ -219,3 +219,4 @@ delete_request:function(resource,input) {
 }
 });
 
+module.exports = Mailin;

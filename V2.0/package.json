@@ -1,0 +1,17 @@
+{
+  "name": "mailin-api",
+  "version": "2.0.0",
+  "description": "sendinblue API wrapper for node.js",
+  "main": "mailin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sendinblue"
+  ],
+  "author": "elyas-bhy",
+  "license": "MIT",
+  "dependencies": {
+    "restler": "^3.2.2"
+  }
+}
